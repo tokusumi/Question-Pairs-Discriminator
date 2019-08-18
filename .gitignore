@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+env
+data/*
+log/*
+
+*.ipynb
+
+vocab.txt
